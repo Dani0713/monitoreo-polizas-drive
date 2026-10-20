@@ -1,0 +1,4 @@
+credentials.json
+estado_polizas.json
+venv/
+__pycache__/
